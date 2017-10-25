@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my RC cars projects
 
-You can use the [editor on GitHub](https://github.com/distortenterprises/RC_cars/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here I document the use and repair of my Tamiya RC cars, 1985 Falcon, 1992 Vanquish.           
 
 ### Markdown
 
